@@ -20,9 +20,9 @@ Comment [NonAction] attribute from /Authentication/CreateRole endpoint. Run Crea
 
 First the request comes to the controller (BlogController), then the interface runs (IBlogService) and the interface sends a request to the Service (BlogService).
 
-.Net version 6
-Microsoft.EntityFrameworkCore 7.0.2
-AspNet.Security.OAuth.Validation 2.0.0
+.Net version 6 <br>
+Microsoft.EntityFrameworkCore 7.0.2 <br>
+AspNet.Security.OAuth.Validation 2.0.0 <br>
 
 ## Authors
 
