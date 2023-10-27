@@ -10,9 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
--- Check the connection string on appsettings.json file. 
--- Change the APIKEY and SECRETKEY on appsettings.json This web site can help you https://www.avast.com/random-password-generator
--- Change Mail Hosting, mail, password and sockets according to your smtp settings. /Utilities/EmailHepler
+Check the connection string on appsettings.json file. 
+Change the APIKEY and SECRETKEY on appsettings.json This web site can help you https://www.avast.com/random-password-generator
+Change Mail Hosting, mail, password and sockets according to your smtp settings. /Utilities/EmailHepler
 
 Project has swagger, you can create a new user on /User/Post . A code for verification will be sent to your associated e-mail address. Verify your account using that code.
 
