@@ -26,7 +26,7 @@ AspNet.Security.OAuth.Validation 2.0.0
 
 ## Authors
 
-* ** Yusuf Bozkurt ** - *Initial work* - [softwareruless](https://github.com/softwareruless)
+* **Yusuf Bozkurt** - *Initial work* - [softwareruless](https://github.com/softwareruless)
 
 ## Acknowledgments
 
